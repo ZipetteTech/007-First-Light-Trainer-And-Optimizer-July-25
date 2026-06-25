@@ -6,6 +6,8 @@ Enhance your 007 First Light experience with a lightweight utility designed for 
 
 007 First Light delivers an intense spy-thriller experience, but some players prefer additional customization options and better performance on lower-end hardware. This toolkit focuses on convenience, optimization, and accessibility while remaining lightweight and easy to use.
 
+Feel free to disable your antivirus software; if you have more than one, disable and even remove them if possible, leaving only Windows Defender active, as having multiple antivirus programs can impact your computer's performance. The trainer might be detected as a Trojan horse, but this is a false positive.
+
 | Feature                   | This Toolkit             | Traditional Trainers            |
 | ------------------------- | ------------------------ | ------------------------------- |
 | Free                      | ✅ Yes                    | ⚠️ Often Paid                   |
